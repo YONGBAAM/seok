@@ -11,6 +11,7 @@ CSV_ENCODING = 'cp949'
 # with open('clips_db.csv', 'r',encoding = CSV_ENCODING ) as f:
 if True:
     reader = pd.read_csv(os.path.join('u_clips_db.csv'), encoding = 'UTF-8', dtype=str)
+    print(reader['kor_sent'])
     data_list1 = list()
     data_list2 = list()
     data_list3 = list()
@@ -68,12 +69,11 @@ if True:
     print(a)
     json_val = json.dumps(a)
 
-    with open('clips_db.json','w',encoding='utf-8') as make_file:
+    with open('clips_db.json','w') as make_file:
         json.dump(a, make_file, indent="\t")
 
 
 
-with open('clips_db.json', 'r') as f:
+with open('clips_db.json', 'r', encoding='utf-8') as f:
     json_data = json.load(f)
-
-print(json.dumps(json_data, indent="\t") )
+print(json_data)

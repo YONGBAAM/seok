@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c8d0984-84f9-42ec-ad5a-725da28a0afc" name="Default Changelist" comment="" />
+    <list default="true" id="5c8d0984-84f9-42ec-ad5a-725da28a0afc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/converttojson.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/converttojson.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/converttojson.py" beforeDir="false" afterPath="$PROJECT_DIR$/converttojson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/u_final_words.csv" beforeDir="false" afterPath="$PROJECT_DIR$/u_final_words.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="339e547c-c303-4653-b612-41be2807465a" />
   <component name="ProjectId" id="1XjnqNJnmIyjP9fgkraRLXzRMJO" />
   <component name="ProjectViewState">
@@ -23,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -62,6 +73,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -85,44 +108,50 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1581570958315" />
-    <state width="1237" height="160" key="GridCell.Tab.0.bottom" timestamp="1581588145490">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1160" height="210" key="GridCell.Tab.0.bottom" timestamp="1581589443412">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1237" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581588145490" />
-    <state width="1237" height="160" key="GridCell.Tab.0.center" timestamp="1581588145490">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1160" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581589443412" />
+    <state width="1160" height="210" key="GridCell.Tab.0.center" timestamp="1581589443411">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1237" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581588145490" />
-    <state width="1237" height="160" key="GridCell.Tab.0.left" timestamp="1581588145490">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1160" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581589443411" />
+    <state width="1160" height="210" key="GridCell.Tab.0.left" timestamp="1581589443411">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1237" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581588145490" />
-    <state width="1237" height="160" key="GridCell.Tab.0.right" timestamp="1581588145490">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1160" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581589443411" />
+    <state width="1160" height="210" key="GridCell.Tab.0.right" timestamp="1581589443411">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1237" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581588145490" />
-    <state width="1237" height="207" key="GridCell.Tab.1.bottom" timestamp="1581587156674">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1160" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581589443411" />
+    <state width="1160" height="261" key="GridCell.Tab.1.bottom" timestamp="1581589303668">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1237" height="207" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581587156674" />
-    <state width="1237" height="207" key="GridCell.Tab.1.center" timestamp="1581587156673">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1160" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581589303668" />
+    <state width="1160" height="261" key="GridCell.Tab.1.center" timestamp="1581589303668">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1237" height="207" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1581587156673" />
-    <state width="1237" height="207" key="GridCell.Tab.1.left" timestamp="1581587156673">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1160" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581589303668" />
+    <state width="1160" height="261" key="GridCell.Tab.1.left" timestamp="1581589303668">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1237" height="207" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1581587156673" />
-    <state width="1237" height="207" key="GridCell.Tab.1.right" timestamp="1581587156674">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1160" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581589303668" />
+    <state width="1160" height="261" key="GridCell.Tab.1.right" timestamp="1581589303668">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1237" height="207" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1581587156674" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1581572667250">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1160" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581589303668" />
+    <state x="170" y="0" key="SettingsEditor" timestamp="1581588836682">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581572667250" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/converttojson$converttojson.coverage" NAME="converttojson Coverage Results" MODIFIED="1581588145471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <state x="170" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581588836682" />
   </component>
 </project>
